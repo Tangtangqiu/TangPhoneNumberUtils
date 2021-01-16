@@ -8,5 +8,5 @@ allprojects {
 	}
   
   dependencies {
-	        implementation 'com.github.Tangtangqiu:TangPhoneNumberUtils:Tag'
+	        implementation 'com.github.Tangtangqiu:TangPhoneNumberUtils:v2.0'
 	}
